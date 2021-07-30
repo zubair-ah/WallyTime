@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "585064884416",
+    "project_id": "wallpaper-348f6",
+    "storage_bucket": "wallpaper-348f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585064884416:android:cca0bebc95baa465016525",
+        "android_client_info": {
+          "package_name": "com.zubair.wallpaperz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585064884416-6lp0o69h0um2pod9pfbnd0rppa54hmbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zubair.wallpaperz",
+            "certificate_hash": "9277a0d52e32687f6aa9fa04c36d5c309cda70cb"
+          }
+        },
+        {
+          "client_id": "585064884416-kpcijsgu0l1caosnan6v2t2akubptfj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zubair.wallpaperz",
+            "certificate_hash": "75e6657d0222e5af35bf1f5efbd54f242c904cae"
+          }
+        },
+        {
+          "client_id": "585064884416-52hkih35ldo1ed3s2pntm3mno6kis5ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAveiWvgWDayzXmXVFyKqy3i53z_E7gT-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585064884416-52hkih35ldo1ed3s2pntm3mno6kis5ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
